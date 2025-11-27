@@ -1,30 +1,28 @@
-# 🧙 Olá, eu sou o Marco Felipe!
+# 🧙 Hello, I'm Marco Felipe!
 
-**Desenvolvedor Back-End Java | JavaScript**
+**Java | JavaScript Back-End Developer**
 
-🎯 Em transição de carreira da área de Marketing para Desenvolvimento
+🎯 Transitioning from Marketing to Development  
+🎓 Graduate in Analysis and Systems Development  
+💡 Certified by Santander Java Bootcamp 2024
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+## 🛠️ Technologies & Tools
 
-💡 Certificado pelo Bootcamp Santander Java 2024
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Principais:**
+**Main Stack:**  
 `Java` `JavaScript` `Node.js` `SQL` `Git`
 
-**Estudando:**
+**Currently Studying:**  
 `Spring Framework` `Python` `Power BI`
 
-**Ferramentas:**
+**Tools:**  
 `VS Code` `MySQL` `Postman`
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
-[![Seus stats](https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=radical)](https://github.com/MarcoFelipeNaya)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&theme=radical)](https://github.com/MarcoFelipeNaya)
+[![Your Stats](https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=radical)](https://github.com/MarcoFelipeNaya)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&theme=radical)](https://github.com/MarcoFelipeNaya)
 
-## 📫 Conecte-se comigo
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-felipe-15946431b/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marco.felipe1@outlook.com)

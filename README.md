@@ -17,10 +17,6 @@
 **Tools:**  
 `VS Code` `MySQL` `Postman`
 
-## 📈 GitHub Statistics
-
-[![Your Stats](https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=radical)](https://github.com/MarcoFelipeNaya)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&theme=radical)](https://github.com/MarcoFelipeNaya)
 
 ## 📫 Connect with Me
 

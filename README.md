@@ -8,11 +8,11 @@
 
 ##  About Me
 
-- 🎓 Graduate in **Analysis and Systems Development**
-- 💡 Certified by **Santander Java Bootcamp 2024**
-- 🔭 Currently working on: **Hobby website for my own RPG world**
-- 🌱 Expanding my skills in: **Spring Framework · Python**
-- 💼 Background in **Marketing** — I bring UX awareness and communication skills to every project
+-  Graduate in **Analysis and Systems Development**
+-  Certified by **Santander Java Bootcamp 2024**
+-  Currently working on: **Hobby website for my own RPG world**
+-  Expanding my skills in: **Spring Framework · Python**
+-  Background in **Marketing** — I bring UX awareness and communication skills to every project
 
 ---
 
@@ -44,7 +44,7 @@
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&langs_count=7&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoFelipeNaya&theme=tokyonight)"/>
 
 </div>
 

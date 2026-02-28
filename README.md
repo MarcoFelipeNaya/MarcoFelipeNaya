@@ -42,15 +42,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcofelipenaya)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFelipeNaya&layout=compact&langs_count=7&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoFelipeNaya&theme=tokyonight)"/>
-
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&include_all_commits=true&theme=ocean_dark)
+  
 </div>
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoFelipeNaya&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoFelipeNaya&theme=ocean_dark)
 
 </div>
 

@@ -42,6 +42,8 @@ https://www.marcofelipe.dev
 
 ## 📊 GitHub Stats
 
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=tokyonight)
+
 <div align="center">
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&include_all_commits=true&theme=ocean_dark)

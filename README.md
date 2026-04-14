@@ -41,7 +41,6 @@
 
 ## 📊 GitHub Stats
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoFelipeNaya&show_icons=true&theme=tokyonight)
 
 <div align="center">
   

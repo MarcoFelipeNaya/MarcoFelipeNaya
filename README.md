@@ -66,6 +66,6 @@
 
 <div align="center">
 
-*⚔️ Slaying bugs and conquering code, one commit at a time*
+*Slaying bugs and conquering code, one commit at a time*
 
 </div>
